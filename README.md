@@ -4,4 +4,4 @@
 
 Por el momento manejo estas tecnologias y lenguajes (como todo programador, quiero profundizar y conocer muchas más)😄🔭
 
-![Node.js]([https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png))
+:rocket: Lenguaje => Javascript 
