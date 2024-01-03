@@ -4,6 +4,4 @@
 
 Por el momento manejo estas tecnologias y lenguajes (como todo programador, quiero profundizar y conocer muchas más)😄🔭
 
-:javascript: Lenguaje => Javascript 
-:nodejs: Entorno => Node
-:react: Framework para UI y UX => React 
+:rocket: :rocket: Javascript, Node, React, Redux, Express, PostgreSQL, Sequelize, Amazon Web Service  :rocket: :rocket:
