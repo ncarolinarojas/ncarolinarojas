@@ -1,10 +1,11 @@
-## Un gusto poder interactuar contigo 👋
+## It's a pleasure to interact with you 👋
 
-## Soy Natalia Rojas, una fullstack apasionada por el continuo aprendizaje, los retos y la tecnología, así como del e-commerce✨
+## I am Natalia Rojas, a fullstack passionate about continuous learning, challenges and technology, as well as e-commerce✨
 
-Actualmente cuento con sólidos conocimientos en herramientas como :rocket: :rocket:  Node.js, Amazon Web Services (AWS), Express, Sequelize, PostgreSQL, React.js, Redux y Bootstrap :rocket: :rocket: . Además, soy amante de los idiomas; Actualmente tengo un nivel B2 en inglés y soy Administradora de Empresas, con experiencia en el área de compras, atención al cliente a través de coordinación de garantías y asistencia de gerencia.
-
-En relación a mis habilidades blandas, me encanta trabajar en equipo y me apasiona el liderazgo. Asimismo, me gusta resolver problemas con soluciones integrales, soy responsable y proactiva.😄🔭
+I currently have solid knowledge of tools such as :rocket: :rocket:  Node.js, Amazon Web Services (AWS), Express, Sequelize, PostgreSQL, React.js, Redux y Bootstrap :rocket: :rocket: . Furthermore, I am a lover of languages; I currently have a B2 level in English and I am a Business Administrator, with experience in the purchasing area, customer service through warranty coordination and management assistance.
 
 
-Por su parte, recuerda que puedes contactarme a través de mi email nataliarojasco22@gmail.com o dejarme un mensaje a mi Likedln: https://www.linkedin.com/in/natalia-rojas-388418232/ 
+In relation to my soft skills, I love working in teams and I am passionate about leadership. Likewise, I like to solve problems with comprehensive solutions, I am responsible and proactive.😄🔭
+
+
+Remember that you can contact me through my email nataliarojasco22@gmail.com or leave me a message on my Likedln: https://www.linkedin.com/in/natalia-rojas-388418232/
